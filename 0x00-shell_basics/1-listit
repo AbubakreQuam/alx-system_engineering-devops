@@ -1,2 +1,2 @@
-#!/bin/bash chmod u+x 1-listit
-ls
+#!/bin/bash
+ls pwd chmod u+x 1-listit
